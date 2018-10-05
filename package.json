@@ -1,5 +1,5 @@
 {
-  "name": "push",
+  "name": "pushfbi",
   "version": "0.0.0-semantic-release",
   "description": "Isomorphic Push notifications for APN and GCM",
   "main": "index.js",
@@ -24,13 +24,13 @@
       "@commitlint/config-conventional"
     ]
   },
-  "repository": "https://github.com/raix/push.git",
+  "repository": "https://github.com/flywheelbi/push",
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raix/push/issues"
+    "url": "https://github.com/flywheelbi/push/issues"
   },
-  "homepage": "https://github.com/raix/push#readme",
+  "homepage": "https://github.com/flywheelbi/push",
   "devDependencies": {
     "@commitlint/cli": "^5.1.1",
     "@commitlint/config-conventional": "^5.1.3",
